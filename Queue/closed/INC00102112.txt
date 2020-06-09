@@ -1,0 +1,7 @@
+INC00102112
+Automation Factory-escalation
+PING FAILED!
+Monitoring for next 15 minutes!
+DEVICE DOWN!
+Device is not rechable
+reassign_group
