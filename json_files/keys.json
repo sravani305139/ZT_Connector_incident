@@ -1,0 +1,5 @@
+{"KeytoFlowCombination" :[
+        {"KeyWords" :["linux" ,"get files"],"Flow" : "./use_case_flows/Modified_Enable_Lync_Accounts_with_LID_Policies.ps1","EscalateTo" : "Automation Factory-escalation","Tower":"linux"},
+        {"KeyWords" :["test"],"Flow" : "./power_shell/test.ps1","EscalateTo" : "Automation Factory-escalation","Tower":"Network"}
+        
+]}
